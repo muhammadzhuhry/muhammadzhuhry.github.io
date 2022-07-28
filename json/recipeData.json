@@ -129,7 +129,7 @@
       },
       {
          "id":4,
-         "name":"Big Night Pizza",
+         "name":"Hanian Rice",
          "image":"food-4",
          "ingridient":[
             {
@@ -183,7 +183,277 @@
             15,
             0
          ]
-      }
+      },
+      {
+         "id":5,
+         "name":"Pulled Beef Burritos",
+         "image":"food-5",
+         "ingridient":[
+            {
+               "quantity":"1/4 kg",
+               "name":"Beans"
+            },
+            {
+               "quantity":"2 pcs",
+               "name":"Tortilas"
+            },
+            {
+               "quantity":"1 pcs",
+               "name":"Onion"
+            },
+            {
+               "quantity":"2 cup",
+               "name":"Cheese"
+            },
+            {
+               "quantity":"2 tsp",
+               "name":"Salt"
+            },
+            {
+               "quantity":"2 cup",
+               "name":"Sauce"
+            },
+            {
+               "quantity":"3/4 kg",
+               "name":"Cooked beef"
+            }
+         ],
+         "steps":[
+            "Pour beans into a pot and bring to a simmer over medium-low heat.",
+            "Place a tortilla on a microwave-safe plate, sprinkle with onion, 2 tablespoons beans, and 2 to 3 tablespoons pulled pork. Sprinkle with Monterey Jack cheese, and roll the tortilla closed. Drizzle over 2 tablespoons of enchilada sauce, and sprinkle with more cheese.",
+            "Microwave until heated through and cheese is melted, about 1 minute. Repeat with remaining tortillas and filling ingredients.",
+            "Enjoy!"
+         ],
+         "timers":[
+            3,
+            5,
+            1,
+            0
+         ]
+      },
+      {
+         "id":6,
+         "name":"Chicken Chop Recipe",
+         "image":"food-6",
+         "ingridient":[
+            {
+               "quantity":"1/4 kg",
+               "name":"Boneless Chicken"
+            },
+            {
+               "quantity":"1 tsp",
+               "name":"Cajun"
+            },
+            {
+               "quantity":"1 1/2 cup",
+               "name":"Cheese"
+            },
+            {
+               "quantity":"1 1/2 cup",
+               "name":"Garlic"
+            },
+            {
+               "quantity":"2 pcs",
+               "name":"Egg"
+            }
+         ],
+         "steps":[
+            "Preheat an air fryer to 400 degrees F (200 degrees C).",
+            "Place pork chops on a plate and season both sides with Cajun seasoning.",
+            "Pulse croutons in a small food processor until fine; transfer to a shallow dish. Lightly beat eggs in a separate shallow dish. Working one at a time, dip pork chops into beaten egg, letting excess drip off; press into crouton breading to coat both sides and place breaded chop, unstacked, onto a plate. Repeat with remaining chops. Mist chops with cooking spray.",
+            "Spray the air fryer basket with cooking spray and arrange chops in a single layer in the air fryer basket. You may have to do two batches depending on the size of your air fryer.",
+            "Cook in the preheated air fryer for 5 minutes; flip chops and mist again with cooking spray if there are dry areas. Cook 5 minutes more. An instant-read thermometer inserted into the center of the chops should read 145 degrees F (63 degrees C)."
+        ],
+         "timers":[
+            5,
+            0,
+            5,
+            0,
+            5
+         ]
+      },
+      {
+        "id":7,
+        "name":"Big Night Pizza",
+        "image":"food-7",
+        "ingridient":[
+           {
+              "quantity":"5 tsp",
+              "name":"Yeast"
+           },
+           {
+              "quantity":"5 cup",
+              "name":"Flour"
+           },
+           {
+              "quantity":"4 tsp",
+              "name":"Vegetable oil"
+           },
+           {
+              "quantity":"2 tsp",
+              "name":"Sugar"
+           },
+           {
+              "quantity":"2 tsp",
+              "name":"Salt"
+           },
+           {
+              "quantity":"2 cup",
+              "name":"Hot water"
+           },
+           {
+              "quantity":"1/4 cup",
+              "name":"Pizza sauce"
+           },
+           {
+              "quantity":"3/4 cup",
+              "name":"Mozzarella cheese"
+           }
+        ],
+        "steps":[
+           "Add hot water to yeast in a large bowl and let sit for 15 minutes.",
+           "Mix in oil, sugar, salt, and flour and let sit for 1 hour.",
+           "Knead the dough and spread onto a pan.",
+           "Spread pizza sauce and sprinkle cheese.",
+           "Add any optional toppings as you wish.",
+           "Bake at 400 deg Fahrenheit for 15 minutes.",
+           "Enjoy!"
+        ],
+        "timers":[
+           15,
+           60,
+           0,
+           0,
+           0,
+           15,
+           0
+        ]
+      },
+      {
+        "id":8,
+        "name":"Spicy Salmon Dinner",
+        "image":"food-8",
+        "ingridient":[
+           {
+              "quantity":"1 lb",
+              "name":"Asparagus"
+           },
+           {
+              "quantity":"1 1/2 tbsp",
+              "name":"Olive oil"
+           },
+           {
+              "quantity":"1/2 tsp",
+              "name":"Kosher Salt"
+           }
+        ],
+        "steps":[
+           "Preheat oven to 425°F.",
+           "Cut off the woody bottom part of the asparagus spears and discard.",
+           "With a vegetable peeler, peel off the skin on the bottom 2-3 inches of the spears (this keeps the asparagus from being all.\",string.\", and if you eat asparagus you know what I mean by that).",
+           "Place asparagus on foil-lined baking sheet and drizzle with olive oil.",
+           "Sprinkle with salt.",
+           "With your hands, roll the asparagus around until they are evenly coated with oil and salt.",
+           "Roast for 10-15 minutes, depending on the thickness of your stalks and how tender you like them.",
+           "They should be tender when pierced with the tip of a knife.",
+           "The tips of the spears will get very brown but watch them to prevent burning.",
+           "They are great plain, but sometimes I serve them with a light vinaigrette if we need something acidic to balance out our meal."
+        ],
+        "timers":[
+           0,
+           25,
+           0,
+           0,
+           0,
+           0,
+           10,
+           0,
+           0,
+           0
+        ]
+      },
+      {
+        "id":9,
+        "name":"Spaghetti Sauce with Ground Beefr",
+        "image":"food-9",
+        "ingridient":[
+           {
+              "quantity":"1 lb",
+              "name":"Asparagus"
+           },
+           {
+              "quantity":"1 1/2 tbsp",
+              "name":"Olive oil"
+           },
+           {
+              "quantity":"1/2 tsp",
+              "name":"Kosher Salt"
+           }
+        ],
+        "steps":[
+           "Preheat oven to 425°F.",
+           "Cut off the woody bottom part of the asparagus spears and discard.",
+           "With a vegetable peeler, peel off the skin on the bottom 2-3 inches of the spears (this keeps the asparagus from being all.\",string.\", and if you eat asparagus you know what I mean by that).",
+           "Place asparagus on foil-lined baking sheet and drizzle with olive oil.",
+           "Sprinkle with salt.",
+           "With your hands, roll the asparagus around until they are evenly coated with oil and salt.",
+           "Roast for 10-15 minutes, depending on the thickness of your stalks and how tender you like them.",
+           "They should be tender when pierced with the tip of a knife.",
+           "The tips of the spears will get very brown but watch them to prevent burning.",
+           "They are great plain, but sometimes I serve them with a light vinaigrette if we need something acidic to balance out our meal."
+        ],
+        "timers":[
+           0,
+           0,
+           12,
+           0,
+           0,
+           0,
+           10,
+           0,
+           0,
+           10
+        ]
+      },
+      {
+        "id":10,
+        "name":"Sweet Chili and Orange Marmalade Glazed Chicken Wings",
+        "image":"food-10",
+        "ingridient":[
+           {
+              "quantity":"1",
+              "name":"Beef roast"
+           },
+           {
+              "quantity":"1 pkg",
+              "name":"Brown gravy mix"
+           },
+           {
+              "quantity":"1 pkg",
+              "name":"Dried Italian salad dressing mix"
+           },
+           {
+              "quantity":"1 pkg",
+              "name":"Dry ranch dressing mix"
+           },
+           {
+              "quantity":"1/2 cup",
+              "name":"Water"
+           }
+        ],
+        "steps":[
+           "Place beef roast in crock pot.",
+           "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+           "Pour the water around the roast.",
+           "Cook on low for 7-9 hours."
+        ],
+        "timers":[
+           0,
+           0,
+           0,
+           27
+        ]
+     }
    ]
   }
 }
