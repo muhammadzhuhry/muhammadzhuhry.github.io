@@ -2,8 +2,7 @@
   "error": false,
   "message": "success get recipes data",
   "code": 200,
-  "data": {
-    "recipes":[
+  "data": [
       {
          "id":1,
          "name":"Crock Pot Roast",
@@ -455,5 +454,4 @@
         ]
      }
    ]
-  }
 }
